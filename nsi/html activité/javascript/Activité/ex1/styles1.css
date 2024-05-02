@@ -1,0 +1,35 @@
+#case1{
+    background-color: blue;
+}
+#case2{
+    background-color: darkcyan;
+}
+#case3{
+    background-color: cyan;
+}
+#case4{
+    background-color: green;
+}
+#case5{
+    background-color: gold;
+}
+#case6{
+    background-color: purple;
+}
+#case7{
+    background-color: goldenrod;
+}
+#case8{
+    background-color: yellow;
+}
+#case9{
+    background-color: darkgreen;
+}
+td {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+#unetable tr td:hover{
+    background-color: black;
+}
